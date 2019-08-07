@@ -1,0 +1,15 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Book with id 123 not found.","level":"error"}
+{"message":"Book with id f8cf2ccf-b29a-4b0f-aa62-5ead7205cbcf created","level":"info"}
+{"message":"Author, Price, Publisher and Title are required","level":"error"}
+{"message":"Author, Price, Publisher and Title are required","level":"error"}
+{"message":"Book with id f8cf2ccf-b29a-4b0f-aa62-5ead7205cbcf not found.","level":"error"}
+{"message":"Book with id 81234c75-47e2-40b2-8573-d4779aaaebce created","level":"info"}
+{"message":"Book with id 81234c75-47e2-40b2-8573-d4779aaaebce deleted.","level":"info"}
+{"message":"Book with id 81234c75-47e2-40b2-8573-d4779aaaebce not found.","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
